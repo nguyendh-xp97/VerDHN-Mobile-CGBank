@@ -1,4 +1,4 @@
-Project: [Mobile] CGBank 
+Project: [React Native]CGBank 
 
 Time: 1/03/2024 – 1/04/2024 Description:
 
